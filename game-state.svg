@@ -540,8 +540,8 @@ Created for Diplomap (http://www.games2relax.net/diplomap/)
 <use id="SC" xlink:href="#sc" class="Unowned"/>
 </defs>
 
-<g title="Budapest"><use xlink:href="#sc" class="Austria" transform="translate(&scBudapest;)"/></g>
-<g title="Trieste"><use xlink:href="#sc" class="Austria" transform="translate(&scTrieste;)"/></g>
+<g title="Budapest"><use xlink:href="#sc" class="Russia" transform="translate(&scBudapest;)"/></g>
+<g title="Trieste"><use xlink:href="#sc" class="Italy" transform="translate(&scTrieste;)"/></g>
 <g title="Vienna"><use xlink:href="#sc" class="Austria" transform="translate(&scVienna;)"/></g>
 <g title="Edinburgh"><use xlink:href="#sc" class="England" transform="translate(&scEdinburgh;)"/></g>
 <g title="Liverpool"><use xlink:href="#sc" class="England" transform="translate(&scLiverpool;)"/></g>
@@ -565,7 +565,7 @@ Created for Diplomap (http://www.games2relax.net/diplomap/)
 <g title="Greece"><use xlink:href="#sc" class="Balkan" transform="translate(&scGreece;)"/></g>
 <g title="Rumania"><use xlink:href="#sc" id="Rumania" class="Balkan" transform="translate(&scRumania;)"/></g>
 <g title="Serbia"><use xlink:href="#sc" id="Serbia" class="Balkan" transform="translate(&scSerbia;)"/></g>
-<g title="Bulgaria"><use xlink:href="#sc" id="Bulgaria" class="Balkan" transform="translate(&scBulgaria;)"/></g>
+<g title="Bulgaria"><use xlink:href="#sc" id="Bulgaria" class="Turkey" transform="translate(&scBulgaria;)"/></g>
 <g title="Belgium"><use xlink:href="#sc" id="Belgium" class="Lowland" transform="translate(&scBelgium;)"/></g>
 <g title="Holland"><use xlink:href="#sc" id="Holland" class="Lowland" transform="translate(&scHolland;)"/></g>
 <g title="Ruhr"><use xlink:href="#sc" id="Ruhr" class="Lowland" transform="translate(&scRuhr;)"/></g>
@@ -576,30 +576,30 @@ Created for Diplomap (http://www.games2relax.net/diplomap/)
 <g title="Portugal"><use xlink:href="#sc" id="Portugal" class="SpainC" transform="translate(&scPortugal;)"/></g>
 <g title="Tunis"><use xlink:href="#sc" id="Tunis" class="SpainC" transform="translate(&scTunis;)"/></g>
 
-<g title="Tyrolia"><use xlink:href="#A" id="Tyrolia" class="Austria" transform="translate(&Tyrolia;)"/></g>
-<g title="Budapest"><use xlink:href="#A" id="Budapest" class="Austria" transform="translate(&Budapest;)"/></g>
-<g title="Trieste"><use xlink:href="#F" id="Trieste" class="Austria" transform="translate(&Trieste;)"/></g>
-<g title="English_Channel"><use xlink:href="#F" id="English_Channel" class="England" transform="translate(&English_Channel;)"/></g>
-<g title="Edinburgh"><use xlink:href="#F" id="Edinburgh" class="England" transform="translate(&Edinburgh;)"/></g>
-<g title="Wales"><use xlink:href="#A" id="Wales" class="England" transform="translate(&Wales;)"/></g>
+<g title="Adriatic_Sea"><use xlink:href="#F" id="Adriatic_Sea" class="Austria" transform="translate(&Adriatic_Sea;)"/></g>
+<g title="Irish_Sea"><use xlink:href="#F" id="Irish_Sea" class="England" transform="translate(&Irish_Sea;)"/></g>
+<g title="Yorkshire"><use xlink:href="#F" id="Yorkshire" class="England" transform="translate(&Yorkshire;)"/></g>
+<g title="London"><use xlink:href="#A" id="London" class="England" transform="translate(&London;)"/></g>
 <g title="Picardy"><use xlink:href="#A" id="Picardy" class="France" transform="translate(&Picardy;)"/></g>
 <g title="Burgundy"><use xlink:href="#A" id="Burgundy" class="France" transform="translate(&Burgundy;)"/></g>
-<g title="Brest"><use xlink:href="#F" id="Brest" class="France" transform="translate(&Brest;)"/></g>
+<g title="English_Channel"><use xlink:href="#F" id="English_Channel" class="France" transform="translate(&English_Channel;)"/></g>
 <g title="Kiel"><use xlink:href="#A" id="Kiel" class="Germany" transform="translate(&Kiel;)"/></g>
 <g title="Munich"><use xlink:href="#A" id="Munich" class="Germany" transform="translate(&Munich;)"/></g>
 <g title="Helgoland_Bight"><use xlink:href="#F" id="Helgoland_Bight" class="Germany" transform="translate(&Helgoland_Bight;)"/></g>
-<g title="Rome"><use xlink:href="#A" id="Rome" class="Italy" transform="translate(&Rome;)"/></g>
 <g title="Venice"><use xlink:href="#A" id="Venice" class="Italy" transform="translate(&Venice;)"/></g>
+<g title="Trieste"><use xlink:href="#A" id="Trieste" class="Italy" transform="translate(&Trieste;)"/></g>
+<g title="Rome"><use xlink:href="#A" id="Rome" class="Italy" transform="translate(&Rome;)"/></g>
 <g title="Apulia"><use xlink:href="#F" id="Apulia" class="Italy" transform="translate(&Apulia;)"/></g>
-<g title="Ukraine"><use xlink:href="#A" id="Ukraine" class="Russia" transform="translate(&Ukraine;)"/></g>
+<g title="Budapest"><use xlink:href="#A" id="Budapest" class="Russia" transform="translate(&Budapest;)"/></g>
 <g title="Galicia"><use xlink:href="#A" id="Galicia" class="Russia" transform="translate(&Galicia;)"/></g>
-<g title="St Petersburg (sc)"><use xlink:href="#F" id="St_Petersburg" class="Russia" transform="translate(&St_Petersburg__sc;)"/></g>
-<g title="Sevastopol"><use xlink:href="#F" id="Sevastopol" class="Russia" transform="translate(&Sevastopol;)"/></g>
-<g title="Constantinople"><use xlink:href="#A" id="Constantinople" class="Turkey" transform="translate(&Constantinople;)"/></g>
-<g title="Smyrna"><use xlink:href="#A" id="Smyrna" class="Turkey" transform="translate(&Smyrna;)"/></g>
-<g title="Black_Sea"><use xlink:href="#F" id="Black_Sea" class="Turkey" transform="translate(&Black_Sea;)"/></g>
-<g title="Greece"><use xlink:href="#F" id="Greece" class="Balkan" transform="translate(&Greece;)"/></g>
-<g title="Rumania"><use xlink:href="#F" id="Rumania" class="Balkan" transform="translate(&Rumania;)"/></g>
+<g title="Gulf_of_Bothnia"><use xlink:href="#F" id="Gulf_of_Bothnia" class="Russia" transform="translate(&Gulf_of_Bothnia;)"/></g>
+<g title="Black_Sea"><use xlink:href="#F" id="Black_Sea" class="Russia" transform="translate(&Black_Sea;)"/></g>
+<g title="Warsaw"><use xlink:href="#A" id="Warsaw" class="Russia" transform="translate(&Warsaw;)"/></g>
+<g title="Bulgaria"><use xlink:href="#A" id="Bulgaria" class="Turkey" transform="translate(&Bulgaria;)"/></g>
+<g title="Smyrna"><use xlink:href="#F" id="Smyrna" class="Turkey" transform="translate(&Smyrna;)"/></g>
+<g title="Ankara"><use xlink:href="#A" id="Ankara" class="Turkey" transform="translate(&Ankara;)"/></g>
+<g title="Constantinople"><use xlink:href="#F" id="Constantinople" class="Turkey" transform="translate(&Constantinople;)"/></g>
+<g title="Ionian_Sea"><use xlink:href="#F" id="Ionian_Sea" class="Balkan" transform="translate(&Ionian_Sea;)"/></g>
 <g title="Serbia"><use xlink:href="#A" id="Serbia" class="Balkan" transform="translate(&Serbia;)"/></g>
 <g title="Albania"><use xlink:href="#A" id="Albania" class="Balkan" transform="translate(&Albania;)"/></g>
 <g title="Belgium"><use xlink:href="#F" id="Belgium" class="Lowland" transform="translate(&Belgium;)"/></g>
@@ -610,7 +610,7 @@ Created for Diplomap (http://www.games2relax.net/diplomap/)
 <g title="Norway"><use xlink:href="#A" id="Norway" class="NorwayC" transform="translate(&Norway;)"/></g>
 <g title="Gascony"><use xlink:href="#A" id="Gascony" class="SpainC" transform="translate(&Gascony;)"/></g>
 <g title="Mid-Atlantic_Ocean"><use xlink:href="#F" id="Mid-Atlantic_Ocean" class="SpainC" transform="translate(&Mid-Atlantic_Ocean;)"/></g>
-<g title="Tunis"><use xlink:href="#F" id="Tunis" class="SpainC" transform="translate(&Tunis;)"/></g>
+<g title="Tyrrhenian_Sea"><use xlink:href="#F" id="Tyrrhenian_Sea" class="SpainC" transform="translate(&Tyrrhenian_Sea;)"/></g>
 
 <g title="labelAustria" transform="translate(&labelAustria;)"><use xlink:href="#sc" id="labelAustria" class="Austria" /><text x="5" y="3">Austria</text><text x="5" y="11">Andrew</text></g>
 <g title="labelEngland" transform="translate(&labelEngland;)"><use xlink:href="#sc" id="labelEngland" class="England" /><text x="5" y="3">England</text><text x="5" y="11">Toby</text></g>
